@@ -27,7 +27,7 @@ FashionMNIST dataset.
 Open source modelling project simulating epidemic 
 spread using Monte Carlo methods.
 
-### Deep Learning (CS6421)
+### Deep Learning 
 Four assignments covering core deep learning 
 concepts and applications.
 
@@ -39,7 +39,7 @@ Three applied ML projects:
 
 ## Tools & Technologies
 - Python
-- Scikit-learn, PyTorch
+- Numpy, Pandas, MatPlotLib, Scikit-learn, PyTorch
 - Jupyter Notebook
 - Monte Carlo Methods
 - Reservoir Computing
